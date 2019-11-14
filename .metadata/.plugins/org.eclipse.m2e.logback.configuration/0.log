@@ -1531,3 +1531,14 @@ org.eclipse.core.runtime.CoreException: Launch configuration MycoolappApplicatio
 2019-10-30 07:52:05,753 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-10-30 07:52:05,762 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-30 07:52:05,762 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cs026js\eclipse-workspace\spring-hibernate-springboot\05-properties-demo\src\test\resources
+2019-11-12 08:52:55,444 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-12 09:15:46,086 [Worker-18: Launching MycoolappApplication (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 09:15:46,093 [Worker-18: Launching MycoolappApplication (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 09:15:46,118 [Worker-18: Launching MycoolappApplication (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 09:15:46,122 [Worker-18: Launching MycoolappApplication (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 09:15:46,122 [Worker-18: Launching MycoolappApplication (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cs026js\eclipse-workspace\spring-hibernate-springboot\05-properties-demo\src\test\resources
+2019-11-12 09:18:45,584 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 09:18:45,591 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 09:18:45,594 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 09:18:45,603 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 09:18:45,603 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cs026js\eclipse-workspace\spring-hibernate-springboot\05-properties-demo\src\test\resources
